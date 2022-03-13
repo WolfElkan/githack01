@@ -1,4 +1,4 @@
-Last login: Sun Mar 13 14:59:44 on ttys000
+Last login: Sun Mar 13 15:21:55 on ttys000
 
 The default interactive shell is now zsh.
 To update your account to use zsh, please run `chsh -s /bin/zsh`.
@@ -155,6 +155,28 @@ NWE-MBP:~ wolf$ du
 0	./Desktop/Programs/ExcelClock/.git/branches
 288	./Desktop/Programs/ExcelClock/.git
 312	./Desktop/Programs/ExcelClock
+8	./Desktop/Programs/githack/.git/objects/50
+8	./Desktop/Programs/githack/.git/objects/cf
+8	./Desktop/Programs/githack/.git/objects/18
+0	./Desktop/Programs/githack/.git/objects/pack
+0	./Desktop/Programs/githack/.git/objects/info
+8	./Desktop/Programs/githack/.git/objects/15
+448	./Desktop/Programs/githack/.git/objects/2e
+480	./Desktop/Programs/githack/.git/objects
+8	./Desktop/Programs/githack/.git/info
+8	./Desktop/Programs/githack/.git/logs/refs/heads
+8	./Desktop/Programs/githack/.git/logs/refs/remotes/origin
+8	./Desktop/Programs/githack/.git/logs/refs/remotes
+16	./Desktop/Programs/githack/.git/logs/refs
+24	./Desktop/Programs/githack/.git/logs
+120	./Desktop/Programs/githack/.git/hooks
+8	./Desktop/Programs/githack/.git/refs/heads
+0	./Desktop/Programs/githack/.git/refs/tags
+8	./Desktop/Programs/githack/.git/refs/remotes/origin
+8	./Desktop/Programs/githack/.git/refs/remotes
+16	./Desktop/Programs/githack/.git/refs
+688	./Desktop/Programs/githack/.git
+4912	./Desktop/Programs/githack
 8	./Desktop/Programs/jackbox/mafia/chat/node_modules/xmlhttprequest-ssl/example
 80	./Desktop/Programs/jackbox/mafia/chat/node_modules/xmlhttprequest-ssl/tests
 40	./Desktop/Programs/jackbox/mafia/chat/node_modules/xmlhttprequest-ssl/lib
@@ -3648,12 +3670,12 @@ NWE-MBP:~ wolf$ du
 352	./Desktop/Programs/Scrabble
 808	./Desktop/Programs/Harphoon/static
 848	./Desktop/Programs/Harphoon
-959920	./Desktop/Programs
+964840	./Desktop/Programs
 2432	./Desktop/GMU
 1328	./Desktop/Data/Money
 1352	./Desktop/Data
 21000	./Desktop/PKA
-986472	./Desktop
+991392	./Desktop
 112	./Library/Application Support/com.apple.sbd/E9370DC7-D0EF-4969-BFB8-D3C418A4773A/PCS-Notes-tomb
 112	./Library/Application Support/com.apple.sbd/E9370DC7-D0EF-4969-BFB8-D3C418A4773A/PCS-iMessage-tomb
 112	./Library/Application Support/com.apple.sbd/E9370DC7-D0EF-4969-BFB8-D3C418A4773A/iCloudIdentity-tomb
@@ -3721,7 +3743,7 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 35920	./Library/Application Support/Google/Chrome/pnacl
 0	./Library/Application Support/Google/Chrome/NativeMessagingHosts
 48000	./Library/Application Support/Google/Chrome/Safe Browsing
-8192	./Library/Application Support/Google/Chrome/BrowserMetrics
+16384	./Library/Application Support/Google/Chrome/BrowserMetrics
 11408	./Library/Application Support/Google/Chrome/GrShaderCache/GPUCache
 11408	./Library/Application Support/Google/Chrome/GrShaderCache
 48	./Library/Application Support/Google/Chrome/AutofillStates/2020.11.2.164946/_metadata
@@ -3732,11 +3754,9 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 0	./Library/Application Support/Google/Chrome/Crashpad/attachments
 0	./Library/Application Support/Google/Chrome/Crashpad/pending
 8	./Library/Application Support/Google/Chrome/Crashpad
-8	./Library/Application Support/Google/Chrome/CertificateRevocation/7211/_metadata
-80	./Library/Application Support/Google/Chrome/CertificateRevocation/7211
 8	./Library/Application Support/Google/Chrome/CertificateRevocation/7212/_metadata
 80	./Library/Application Support/Google/Chrome/CertificateRevocation/7212
-160	./Library/Application Support/Google/Chrome/CertificateRevocation
+80	./Library/Application Support/Google/Chrome/CertificateRevocation
 8	./Library/Application Support/Google/Chrome/OnDeviceHeadSuggestModel/20220220.430669501/_metadata
 15824	./Library/Application Support/Google/Chrome/OnDeviceHeadSuggestModel/20220220.430669501
 15824	./Library/Application Support/Google/Chrome/OnDeviceHeadSuggestModel
@@ -3755,9 +3775,9 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 240	./Library/Application Support/Google/Chrome/Default/Web Applications/Manifest Resources
 0	./Library/Application Support/Google/Chrome/Default/Web Applications/Temp
 240	./Library/Application Support/Google/Chrome/Default/Web Applications
-0	./Library/Application Support/Google/Chrome/Default/blob_storage/92a48ae1-c9ea-44cc-a8ef-dadc079e96a0
+0	./Library/Application Support/Google/Chrome/Default/blob_storage/81225e73-f909-4c60-84cf-76574bb8e5af
 0	./Library/Application Support/Google/Chrome/Default/blob_storage
-936	./Library/Application Support/Google/Chrome/Default/Session Storage
+992	./Library/Application Support/Google/Chrome/Default/Session Storage
 32	./Library/Application Support/Google/Chrome/Default/Platform Notifications
 1096	./Library/Application Support/Google/Chrome/Default/GPUCache
 32	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_c5911eb6064edc4ec5cad2be63cea176.safeframe.googlesyndication.com_0.indexeddb.leveldb
@@ -3896,6 +3916,7 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 254576	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_coursewareapps.visiblebody.com_0.indexeddb.blob
 32	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_fe432655089fa5ac92b81387249c1195.safeframe.googlesyndication.com_0.indexeddb.leveldb
 32	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_1c3a597dd54a9190080d1e4149887a47.safeframe.googlesyndication.com_0.indexeddb.leveldb
+32	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_89eff5f1786e658175c8a3b158f97c03.safeframe.googlesyndication.com_0.indexeddb.leveldb
 40	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.biblegateway.com_0.indexeddb.leveldb
 32	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_a02b36b2ba068e129bae052093fb6487.safeframe.googlesyndication.com_0.indexeddb.leveldb
 48	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb
@@ -3906,7 +3927,7 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 32	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_39090613a2d946b63f6e6efbe1a51a8a.safeframe.googlesyndication.com_0.indexeddb.leveldb
 72	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb
 48	./Library/Application Support/Google/Chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb
-409872	./Library/Application Support/Google/Chrome/Default/IndexedDB
+409904	./Library/Application Support/Google/Chrome/Default/IndexedDB
 0	./Library/Application Support/Google/Chrome/Default/optimization_guide_model_and_features_store
 40	./Library/Application Support/Google/Chrome/Default/GCM Store/Encryption
 144	./Library/Application Support/Google/Chrome/Default/GCM Store
@@ -4654,25 +4675,25 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 400	./Library/Application Support/Google/Chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0
 400	./Library/Application Support/Google/Chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap
 35512	./Library/Application Support/Google/Chrome/Default/Extensions
-64	./Library/Application Support/Google/Chrome/Default/Extension State
+72	./Library/Application Support/Google/Chrome/Default/Extension State
 0	./Library/Application Support/Google/Chrome/Default/BudgetDatabase
-8184	./Library/Application Support/Google/Chrome/Default/Sessions
+6904	./Library/Application Support/Google/Chrome/Default/Sessions
 184	./Library/Application Support/Google/Chrome/Default/Accounts/Avatar Images
 184	./Library/Application Support/Google/Chrome/Default/Accounts
 0	./Library/Application Support/Google/Chrome/Default/optimization_guide_hint_cache_store
 40	./Library/Application Support/Google/Chrome/Default/shared_proto_db/metadata
-1104	./Library/Application Support/Google/Chrome/Default/shared_proto_db
+1232	./Library/Application Support/Google/Chrome/Default/shared_proto_db
 32	./Library/Application Support/Google/Chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi
 40	./Library/Application Support/Google/Chrome/Default/Local Extension Settings/jjbmkdcafifjgaakgpbnhgpjngegpmap
-888	./Library/Application Support/Google/Chrome/Default/Local Extension Settings/bfbameneiokkgbdmiekhjnmfkcnldhhm
-960	./Library/Application Support/Google/Chrome/Default/Local Extension Settings
-912	./Library/Application Support/Google/Chrome/Default/Sync Data/LevelDB
-920	./Library/Application Support/Google/Chrome/Default/Sync Data
+1016	./Library/Application Support/Google/Chrome/Default/Local Extension Settings/bfbameneiokkgbdmiekhjnmfkcnldhhm
+1088	./Library/Application Support/Google/Chrome/Default/Local Extension Settings
+656	./Library/Application Support/Google/Chrome/Default/Sync Data/LevelDB
+664	./Library/Application Support/Google/Chrome/Default/Sync Data
 32	./Library/Application Support/Google/Chrome/Default/data_reduction_proxy_leveldb
-14328	./Library/Application Support/Google/Chrome/Default/Local Storage/leveldb
-14328	./Library/Application Support/Google/Chrome/Default/Local Storage
+14136	./Library/Application Support/Google/Chrome/Default/Local Storage/leveldb
+14136	./Library/Application Support/Google/Chrome/Default/Local Storage
 0	./Library/Application Support/Google/Chrome/Default/Search Logos
-1694480	./Library/Application Support/Google/Chrome/Default
+1695160	./Library/Application Support/Google/Chrome/Default
 8	./Library/Application Support/Google/Chrome/ZxcvbnData/1/_metadata
 1600	./Library/Application Support/Google/Chrome/ZxcvbnData/1
 1600	./Library/Application Support/Google/Chrome/ZxcvbnData
@@ -4710,7 +4731,9 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 56	./Library/Application Support/Google/Chrome/Crowd Deny
 8	./Library/Application Support/Google/Chrome/PKIMetadata/200/_metadata
 344	./Library/Application Support/Google/Chrome/PKIMetadata/200
-344	./Library/Application Support/Google/Chrome/PKIMetadata
+8	./Library/Application Support/Google/Chrome/PKIMetadata/201/_metadata
+344	./Library/Application Support/Google/Chrome/PKIMetadata/201
+688	./Library/Application Support/Google/Chrome/PKIMetadata
 8	./Library/Application Support/Google/Chrome/Floc/1.0.6/_metadata
 96	./Library/Application Support/Google/Chrome/Floc/1.0.6
 96	./Library/Application Support/Google/Chrome/Floc
@@ -4750,8 +4773,8 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 24	./Library/Application Support/Google/Chrome/Guest Profile/Local Storage/leveldb
 24	./Library/Application Support/Google/Chrome/Guest Profile/Local Storage
 3056	./Library/Application Support/Google/Chrome/Guest Profile
-1944424	./Library/Application Support/Google/Chrome
-1944432	./Library/Application Support/Google
+1953256	./Library/Application Support/Google/Chrome
+1953264	./Library/Application Support/Google
 du: ./Library/Application Support/CallHistoryTransactions: Operation not permitted
 0	./Library/Application Support/Microsoft/vcxpc
 120	./Library/Application Support/Microsoft/Teams/media-stack
@@ -4813,8 +4836,8 @@ du: ./Library/Application Support/CallHistoryTransactions: Operation not permitt
 1360	./Library/Application Support/com.apple.MediaPlayer/ServerObjectDatabases/com.apple.Music-ServerObjectDatabase.sqlpkg
 1360	./Library/Application Support/com.apple.MediaPlayer/ServerObjectDatabases
 1360	./Library/Application Support/com.apple.MediaPlayer
-24	./Library/Application Support/com.apple.spotlight/CandidateReports/com.apple.Spotlight
-24	./Library/Application Support/com.apple.spotlight/CandidateReports
+16	./Library/Application Support/com.apple.spotlight/CandidateReports/com.apple.Spotlight
+16	./Library/Application Support/com.apple.spotlight/CandidateReports
 0	./Library/Application Support/com.apple.spotlight/Resources.update_V3/Experimental
 0	./Library/Application Support/com.apple.spotlight/Resources.update_V3/Default
 0	./Library/Application Support/com.apple.spotlight/Resources.update_V3
@@ -4823,7 +4846,7 @@ du: ./Library/Application Support/CallHistoryTransactions: Operation not permitt
 0	./Library/Application Support/com.apple.spotlight/Resources_V3/Shadow
 0	./Library/Application Support/com.apple.spotlight/Resources_V3/Default
 0	./Library/Application Support/com.apple.spotlight/Resources_V3
-128	./Library/Application Support/com.apple.spotlight
+120	./Library/Application Support/com.apple.spotlight
 16	./Library/Application Support/App Store
 304	./Library/Application Support/Plogue/Aria
 304	./Library/Application Support/Plogue
@@ -4884,14 +4907,14 @@ du: ./Library/Application Support/Knowledge: Operation not permitted
 8	./Library/Application Support/icdd
 du: ./Library/Application Support/com.apple.TCC: Operation not permitted
 0	./Library/Application Support/Sublime Text/Installed Packages
-8	./Library/Application Support/Sublime Text/Local
+4832	./Library/Application Support/Sublime Text/Local
 16	./Library/Application Support/Sublime Text/Packages/User
 16	./Library/Application Support/Sublime Text/Packages
 0	./Library/Application Support/Sublime Text/Lib/python38
 0	./Library/Application Support/Sublime Text/Lib/python33
 0	./Library/Application Support/Sublime Text/Lib
 0	./Library/Application Support/Sublime Text/Log
-24	./Library/Application Support/Sublime Text
+4848	./Library/Application Support/Sublime Text
 0	./Library/Application Support/com.apple.ContextStoreAgent
 du: ./Library/Application Support/FileProvider: Operation not permitted
 0	./Library/Application Support/Teams/Dictionaries
@@ -4950,7 +4973,7 @@ du: ./Library/Application Support/com.apple.avfoundation/Frecents: Operation not
 du: ./Library/Application Support/CallHistoryDB: Operation not permitted
 104	./Library/Application Support/Dock
 5568	./Library/Application Support/com.apple.ProtectedCloudStorage
-4038200	./Library/Application Support
+4051848	./Library/Application Support
 0	./Library/Maps/ReportAProblem/Notifications
 0	./Library/Maps/ReportAProblem
 0	./Library/Maps
@@ -4961,22 +4984,23 @@ du: ./Library/Assistant/SiriVocabulary: Operation not permitted
 8	./Library/Assistant/CustomVocabulary/com.apple.Photos/0000000000000000000000000000000000000000
 8	./Library/Assistant/CustomVocabulary/com.apple.Photos
 8	./Library/Assistant/CustomVocabulary
-2736	./Library/Assistant
+2280	./Library/Assistant
 32	./Library/com.apple.appleaccountd/CKTokens/Database/Private
 32	./Library/com.apple.appleaccountd/CKTokens/Database
 32	./Library/com.apple.appleaccountd/CKTokens
 32	./Library/com.apple.appleaccountd
+216	./Library/Saved Application State/com.apple.installer.savedState
 16	./Library/Saved Application State/com.microsoft.teams.savedState
 48	./Library/Saved Application State/com.sublimetext.4.savedState
 40	./Library/Saved Application State/org.wireshark.Wireshark.savedState
-168	./Library/Saved Application State/com.google.Chrome.savedState
+80	./Library/Saved Application State/com.google.Chrome.savedState
 24	./Library/Saved Application State/com.yourcompany.installerbase.savedState
 16	./Library/Saved Application State/com.apple.InstallAssistant.macOSMonterey.savedState
-48	./Library/Saved Application State/com.apple.systempreferences.savedState
-912	./Library/Saved Application State/com.apple.finder.savedState
-3344	./Library/Saved Application State/com.apple.Terminal.savedState
+64	./Library/Saved Application State/com.apple.systempreferences.savedState
+440	./Library/Saved Application State/com.apple.finder.savedState
+3000	./Library/Saved Application State/com.apple.Terminal.savedState
 40	./Library/Saved Application State/com.netacad.PacketTracer8.1.1.savedState
-4656	./Library/Saved Application State
+3984	./Library/Saved Application State
 du: ./Library/IdentityServices: Operation not permitted
 0	./Library/WebKit/com.apple.Music/WebsiteData/IndexedDB/v1
 0	./Library/WebKit/com.apple.Music/WebsiteData/IndexedDB
@@ -5008,16 +5032,423 @@ du: ./Library/IdentityServices: Operation not permitted
 0	./Library/WebKit/com.apple.systempreferences/WebsiteData
 0	./Library/WebKit/com.apple.systempreferences
 520	./Library/WebKit
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Web Science & Mining/unpublished
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Web Science & Mining
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Climate Change
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Database Design/drawio_icon
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Database Design/Pokemon
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Database Design/Resources
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Database Design/Week 2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Database Design/Readings/Week 1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Database Design/Readings
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Database Design/HenryBooks
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Database Design
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/AmongGreenHills.band/Resources
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/AmongGreenHills.band/Alternatives/000/Undo Data.nosync
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/AmongGreenHills.band/Alternatives/000/Autosave
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/AmongGreenHills.band/Alternatives/000
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/AmongGreenHills.band/Alternatives
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/AmongGreenHills.band/Media/Audio Files
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/AmongGreenHills.band/Media
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/AmongGreenHills.band
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II/RehearsalTracks
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Chorus II
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Creative Writing/Voices
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall/Creative Writing
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020 Fall
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/Non Academic/Hunting for Hope
 200	./Library/CloudStorage/OneDrive-LandmarkCollege/Non Academic
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/Recordings
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/objects/d1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/objects/pack
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/objects/8f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/objects/5c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/objects/info
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/objects/0a
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/objects/f9
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/objects
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/info
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/logs/refs/heads
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/logs/refs/remotes/origin
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/logs/refs/remotes
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/logs/refs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/logs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/hooks
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/refs/heads
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/refs/tags
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/refs/remotes/origin
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/refs/remotes
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/refs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git/branches
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey/.git
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre/Survey
 320	./Library/CloudStorage/OneDrive-LandmarkCollege/Theatre
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall/DataStructures
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall/EmbeddedSystems/Video Transcripts
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall/EmbeddedSystems
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall/Calculus
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall/Communications/Non Academic
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall/Communications/Poster/Staples
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall/Communications/Poster
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall/Communications
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021 Fall
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/Microsoft Teams Data/Wiki
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/Microsoft Teams Data
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/Microsoft Teams Chat Files
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021  Summer/JRN3889
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021  Summer
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Math Excellence Award
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/video_example_2/shapes
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/video_example_2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/section_1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/section_6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/worked_example_1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/special_topic_9
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/video_example_1/discussion
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/video_example_1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/section_5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/section_2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/section_3
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/section_4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09/how_to_1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch09
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA11
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA10
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/SummaryQuestions
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/95
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/92
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/3b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/03
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/35
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/3c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/3d
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/93
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/94
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/0e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/60
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/5f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/33
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/9c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/02
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/a4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/b5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/d9
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/ac
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/bb
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/d7
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/be
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/df
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/bd
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/d1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/d6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/ab
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/e5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/f4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/f3
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/ee
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/cf
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/e4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/c8
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/c1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/4e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/20
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/27
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/4b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/pack
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/11
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/16
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/89
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/45
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/73
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/7b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/8a
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/19
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/4c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/26
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/21
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/2f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/07
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/6e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/9a
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/5c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/5d
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/31
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/info
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/54
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/53
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/5b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/37
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/06
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/6c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/39
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/99
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/55
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/97
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/b8
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/b1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/a9
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/d5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/d2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/af
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/de
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/a6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/c3
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/c4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/ea
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/f9
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/f7
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/e8
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/ff
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/c5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/f6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/e9
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/f1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/ce
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/2c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/79
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/1b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/1e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/84
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/4a
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/4f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/8c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/49
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/40
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/2e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/2b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/78
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/8b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects/8e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/objects
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/info
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/logs/refs/heads
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/logs/refs/remotes/origin
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/logs/refs/remotes
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/logs/refs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/logs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/hooks
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/refs/heads
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/refs/tags
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/refs/remotes/origin
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/refs/remotes
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/refs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git/branches
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject/.git
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CipherProject
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/61
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/95
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/59
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/92
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/0c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/57
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/3b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/6f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/03
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/9b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/04
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/6a
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/69
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/3c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/3d
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/0b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/94
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/0e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/60
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/5a
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/33
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/05
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/b5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/ad
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/d7
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/b3
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/df
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/da
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/b4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/d1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/d6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/bc
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/d8
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/ab
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/e2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/f4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/c7
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/ee
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/fc
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/e3
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/cf
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/ca
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/e4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/fe
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/fb
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/c1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/c6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/20
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/4b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/pack
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/11
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/16
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/42
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/89
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/45
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/1f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/73
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/28
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/17
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/8f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/7e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/10
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/19
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/4c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/26
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/4d
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/75
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/81
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/2f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/43
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/6b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/07
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/38
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/6e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/36
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/5c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/5d
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/31
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/info
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/96
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/3a
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/98
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/3f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/30
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/5b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/37
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/01
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/06
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/99
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/97
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/63
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/0f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/90
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/bf
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/a0
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/a7
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/dd
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/dc
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/d5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/d2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/aa
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/db
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/a8
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/a6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/b9
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/a1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/ef
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/c3
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/ea
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/e1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/cd
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/cc
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/e6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/f9
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/f7
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/ff
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/c5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/f6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/f1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/cb
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/f8
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/ce
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/e0
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/46
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/2d
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/83
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/1b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/77
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/84
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/24
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/23
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/4f
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/8d
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/15
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/1c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/40
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/2e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/2b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/47
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/78
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/8b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/7a
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/8e
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/22
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects/25
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/objects
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/info
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/logs/refs/heads
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/logs/refs/remotes/origin
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/logs/refs/remotes
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/logs/refs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/logs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/hooks
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/refs/heads
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/refs/tags
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/refs/remotes/origin
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/refs/remotes
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/refs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git/branches
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7/.git
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project7
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project6/Maze
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project6
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/coding_utilities
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/3d
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/ac
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/a2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/e2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/pack
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/4c
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/6b
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/info
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/53
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/08
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/01
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/aa
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/a1
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/cd
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/cc
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/f7
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/78
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/22
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects/25
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/objects
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/info
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/logs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/hooks
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/refs
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git/branches
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05/.git
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA05
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA15
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA12
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Savings-Calculator
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA13
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA14
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project3
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project4
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project5
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/Project2
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA07
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA09
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA08
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/CBA06
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code/ch10
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/code
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II/ch10
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Computer Science II
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Calculus I
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Composition & Rhetoric/To Live
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Composition & Rhetoric
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Chorus/from Desktop
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Chorus
+0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring/Perspectives in Learning
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/2020  Spring
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/2021  Spring
 0	./Library/CloudStorage/OneDrive-LandmarkCollege/Scholarships
@@ -5186,12 +5617,14 @@ du: ./Library/IdentityServices: Operation not permitted
 16	./Library/Calendars/E6518123-E47F-4A63-AA65-699450885392.calendar/LocalDefaultAlarms
 0	./Library/Calendars/E6518123-E47F-4A63-AA65-699450885392.calendar/Events
 24	./Library/Calendars/E6518123-E47F-4A63-AA65-699450885392.calendar
-123976	./Library/Calendars
+126792	./Library/Calendars
 8	./Library/Preferences/com.apple.FileProvider/com.microsoft.OneDrive-mac.FileProvider
 8	./Library/Preferences/com.apple.FileProvider
 280	./Library/Preferences/ByHost
+8	./Library/Preferences/Canon/ScanGear
+8	./Library/Preferences/Canon
 16	./Library/Preferences/com.apple.LaunchServices
-2912	./Library/Preferences
+2936	./Library/Preferences
 0	./Library/studentd/Container/Library
 0	./Library/studentd/Container
 16	./Library/studentd/Events
@@ -5202,9 +5635,9 @@ du: ./Library/HomeKit: Operation not permitted
 24	./Library/DES/Records/com.apple.reminders.des
 24	./Library/DES/Records
 32	./Library/DES
-20592	./Library/Keychains/D2495766-3BB0-59CB-B173-CF6FC5B47598/Analytics
-41560	./Library/Keychains/D2495766-3BB0-59CB-B173-CF6FC5B47598
-42432	./Library/Keychains
+21616	./Library/Keychains/D2495766-3BB0-59CB-B173-CF6FC5B47598/Analytics
+42712	./Library/Keychains/D2495766-3BB0-59CB-B173-CF6FC5B47598
+43592	./Library/Keychains
 du: ./Library/Sharing: Operation not permitted
 0	./Library/ColorPickers
 0	./Library/Application Scripts/com.apple.CloudPhotosConfiguration
@@ -5633,7 +6066,7 @@ du: ./Library/Sharing: Operation not permitted
 0	./Library/Translation/AssetsV2
 104	./Library/Translation
 du: ./Library/Mail: Operation not permitted
-8776	./Library/Trial/v6/Database
+1608	./Library/Trial/v6/Database
 0	./Library/Trial/v6/AssetStore/assets/d8/61c11d442cb6041dc630dc62/refs
 112	./Library/Trial/v6/AssetStore/assets/d8/61c11d442cb6041dc630dc62
 112	./Library/Trial/v6/AssetStore/assets/d8
@@ -5644,7 +6077,7 @@ du: ./Library/Mail: Operation not permitted
 16	./Library/Trial/v6/AssetStore/assets/71
 128	./Library/Trial/v6/AssetStore/assets
 128	./Library/Trial/v6/AssetStore
-8904	./Library/Trial/v6
+1736	./Library/Trial/v6
 0	./Library/Trial/Treatments/SIRI_DICTATION_ASSETS/factorPacks/6193d03f2171a2330e561dfc/_refs/revlinks
 0	./Library/Trial/Treatments/SIRI_DICTATION_ASSETS/factorPacks/6193d03f2171a2330e561dfc/_refs
 24	./Library/Trial/Treatments/SIRI_DICTATION_ASSETS/factorPacks/6193d03f2171a2330e561dfc
@@ -5720,7 +6153,7 @@ du: ./Library/Mail: Operation not permitted
 0	./Library/Trial/NamespaceDescriptors/v2/rolloutV2
 8	./Library/Trial/NamespaceDescriptors/v2
 32	./Library/Trial/NamespaceDescriptors
-9368	./Library/Trial
+2200	./Library/Trial
 0	./Library/Compositions
 0	./Library/GameKit
 24	./Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/_CodeSignature
@@ -5848,9 +6281,9 @@ du: ./Library/DuetExpertCenter: Operation not permitted
 336	./Library/HTTPStorages/com.apple.iCloudNotificationAgent
 112	./Library/HTTPStorages/com.apple.AMPDevicesAgent
 336	./Library/HTTPStorages/com.apple.systempreferences
-200	./Library/HTTPStorages/com.sublimetext.4
+208	./Library/HTTPStorages/com.sublimetext.4
 336	./Library/HTTPStorages/com.apple.iCloudHelper
-18144	./Library/HTTPStorages
+18152	./Library/HTTPStorages
 264	./Library/com.apple.internal.ck
 64	./Library/Printers/Brother.app/Contents/_CodeSignature
 328	./Library/Printers/Brother.app/Contents/MacOS
@@ -5897,7 +6330,52 @@ du: ./Library/DuetExpertCenter: Operation not permitted
 2424	./Library/Printers/Brother.app/Contents/Resources
 2832	./Library/Printers/Brother.app/Contents
 2832	./Library/Printers/Brother.app
-2848	./Library/Printers
+64	./Library/Printers/Scanner.app/Contents/_CodeSignature
+328	./Library/Printers/Scanner.app/Contents/MacOS
+16	./Library/Printers/Scanner.app/Contents/Resources/de.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/he.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/en_AU.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/ar.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/el.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/ja.lproj
+8	./Library/Printers/Scanner.app/Contents/Resources/en.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/uk.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/es_419.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/zh_CN.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/es.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/pt_BR.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/da.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/it.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/sk.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/pt_PT.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/ms.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/sv.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/cs.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/ko.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/Base.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/no.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/hu.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/zh_HK.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/tr.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/pl.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/zh_TW.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/en_GB.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/vi.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/ru.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/fr_CA.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/fr.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/fi.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/id.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/nl.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/th.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/ro.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/hr.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/hi.lproj
+16	./Library/Printers/Scanner.app/Contents/Resources/ca.lproj
+2424	./Library/Printers/Scanner.app/Contents/Resources
+2832	./Library/Printers/Scanner.app/Contents
+2832	./Library/Printers/Scanner.app
+5680	./Library/Printers
 8	./Library/SyncedPreferences/com.apple.kvs/ChangeTokens/NoEncryption/com.apple.sbd
 8	./Library/SyncedPreferences/com.apple.kvs/ChangeTokens/NoEncryption/mapspushd
 8	./Library/SyncedPreferences/com.apple.kvs/ChangeTokens/NoEncryption/CloudKeychainProxy
@@ -5940,14 +6418,14 @@ du: ./Library/DuetExpertCenter: Operation not permitted
 464	./Library/FrontBoard
 0	./Library/Voices
 0	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.tag
-680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-428FC5CE-3F39-4218-8B94-5DCC12B81548/636D087D-2D7A-4802-848D-EBF4A49E77E2
-680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-428FC5CE-3F39-4218-8B94-5DCC12B81548/85909E44-C17C-43E6-83E3-ECA02C2D0B6E
-680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-428FC5CE-3F39-4218-8B94-5DCC12B81548/4AF484DA-842F-4F42-B644-C5A439F8797E
-2200	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-428FC5CE-3F39-4218-8B94-5DCC12B81548
-680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-026352B8-ED69-489E-8C1F-A37CFA56CA70/0E35F700-034D-4C9A-BF8D-77097D592886
-680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-026352B8-ED69-489E-8C1F-A37CFA56CA70/3570577E-FEC4-4B08-B902-71F2000C2A09
-680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-026352B8-ED69-489E-8C1F-A37CFA56CA70/74880F21-88BD-4E60-BDEF-CF6DB830E098
-2200	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-026352B8-ED69-489E-8C1F-A37CFA56CA70
+680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-C80DEF96-9939-46CF-8B67-D6270A6275A3/E42E0ABD-DEE0-4897-A681-6CE1BD545578
+680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-C80DEF96-9939-46CF-8B67-D6270A6275A3/1024BB0F-0764-493C-AD95-74CA3758067E
+680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-C80DEF96-9939-46CF-8B67-D6270A6275A3/014C6B94-94D2-41FC-AC84-B3637BF7CBC6
+2200	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-C80DEF96-9939-46CF-8B67-D6270A6275A3
+680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-115BE239-0BA8-4D3D-9EC9-58ECC7504494/A553523D-E88A-491F-BF5C-D5BA405907B2
+680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-115BE239-0BA8-4D3D-9EC9-58ECC7504494/DFBD856A-8B52-416A-A1A6-CAAD1038BBB5
+680	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-115BE239-0BA8-4D3D-9EC9-58ECC7504494/C3494CCD-4FFF-40A5-8036-0D8ACC14502B
+2200	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget/today--systemLarge-115BE239-0BA8-4D3D-9EC9-58ECC7504494
 4400	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems/com.apple.news.widget
 4400	./Library/News/com.apple.news.public-com.apple.news.private-production/referralItems
 4416	./Library/News/com.apple.news.public-com.apple.news.private-production
@@ -7096,8 +7574,8 @@ du: ./Library/Group Containers/group.com.apple.secure-control-center-preferences
 0	./Library/Group Containers/UBF8T346G9.OneDriveSyncClientSuite/Library/Caches
 8	./Library/Group Containers/UBF8T346G9.OneDriveSyncClientSuite/Library
 0	./Library/Group Containers/UBF8T346G9.OneDriveSyncClientSuite/File Provider Storage
-74544	./Library/Group Containers/UBF8T346G9.OneDriveSyncClientSuite/FileProviderLogs
-84880	./Library/Group Containers/UBF8T346G9.OneDriveSyncClientSuite
+79056	./Library/Group Containers/UBF8T346G9.OneDriveSyncClientSuite/FileProviderLogs
+89392	./Library/Group Containers/UBF8T346G9.OneDriveSyncClientSuite
 0	./Library/Group Containers/group.com.apple.newsd/com.apple.news.public-production-143441/av-assets/content
 0	./Library/Group Containers/group.com.apple.newsd/com.apple.news.public-production-143441/av-assets
 0	./Library/Group Containers/group.com.apple.newsd/com.apple.news.public-production-143441/content-archives
@@ -7162,9 +7640,9 @@ du: ./Library/Group Containers/group.com.apple.secure-control-center-preferences
 240	./Library/Group Containers/UBF8T346G9.Office/User Content.localized/Add-Ins.localized/.localized
 240	./Library/Group Containers/UBF8T346G9.Office/User Content.localized/Add-Ins.localized
 2864	./Library/Group Containers/UBF8T346G9.Office/User Content.localized
-1288	./Library/Group Containers/UBF8T346G9.Office/ComRPC32
+2184	./Library/Group Containers/UBF8T346G9.Office/ComRPC32
 3040	./Library/Group Containers/UBF8T346G9.Office/MicrosoftRegistrationDB
-17280	./Library/Group Containers/UBF8T346G9.Office
+18176	./Library/Group Containers/UBF8T346G9.Office
 0	./Library/Group Containers/HRLUCP7QP4.com.charlessoft.pacifist.suite/Library/Application Support
 0	./Library/Group Containers/HRLUCP7QP4.com.charlessoft.pacifist.suite/Library/Preferences
 0	./Library/Group Containers/HRLUCP7QP4.com.charlessoft.pacifist.suite/Library/Application Scripts
@@ -7293,7 +7771,7 @@ du: ./Library/Group Containers/group.com.apple.notes: Operation not permitted
 0	./Library/Group Containers/com.apple.MessagesLegacyTransferArchive/Library/Caches
 0	./Library/Group Containers/com.apple.MessagesLegacyTransferArchive/Library
 8	./Library/Group Containers/com.apple.MessagesLegacyTransferArchive
-201504	./Library/Group Containers
+206912	./Library/Group Containers
 0	./Library/Dictionaries/CoreDataUbiquitySupport/wolf~D2495766-3BB0-59CB-B173-CF6FC5B47598/UserDictionary/E239649E-AD7C-46D1-9486-5EFE10D884AD/container/wolf~D2495766-3BB0-59CB-B173-CF6FC5B47598/.stage.nosync/UserDictionary/SAlQVUhF7208e6_gvZx_zdKx1U1AzKGem3HO2pLKjgY=
 0	./Library/Dictionaries/CoreDataUbiquitySupport/wolf~D2495766-3BB0-59CB-B173-CF6FC5B47598/UserDictionary/E239649E-AD7C-46D1-9486-5EFE10D884AD/container/wolf~D2495766-3BB0-59CB-B173-CF6FC5B47598/.stage.nosync/UserDictionary
 0	./Library/Dictionaries/CoreDataUbiquitySupport/wolf~D2495766-3BB0-59CB-B173-CF6FC5B47598/UserDictionary/E239649E-AD7C-46D1-9486-5EFE10D884AD/container/wolf~D2495766-3BB0-59CB-B173-CF6FC5B47598/.stage.nosync
@@ -8068,8 +8546,8 @@ du: ./Library/Containers/com.apple.archiveutility: Operation not permitted
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Logs/Updater
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Logs/Common
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Logs/Business1/DeviceFailureDatagram
-73944	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Logs/Business1
-74296	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Logs
+74256	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Logs/Business1
+74608	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Logs
 8	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Cookies
 112	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Caches/WebKit/AlternativeServices
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Caches/WebKit/OfflineWebApplicationCache
@@ -8091,12 +8569,12 @@ du: ./Library/Containers/com.apple.archiveutility: Operation not permitted
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Caches/com.plausiblelabs.crashreporter.data/com.microsoft.OneDrive-mac
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Caches/com.plausiblelabs.crashreporter.data
 24424	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library/Caches
-110288	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library
+110600	./Library/Containers/com.microsoft.OneDrive-mac/Data/Library
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/Documents
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/tmp
 0	./Library/Containers/com.microsoft.OneDrive-mac/Data/SystemData
-110288	./Library/Containers/com.microsoft.OneDrive-mac/Data
-110352	./Library/Containers/com.microsoft.OneDrive-mac
+110600	./Library/Containers/com.microsoft.OneDrive-mac/Data
+110664	./Library/Containers/com.microsoft.OneDrive-mac
 0	./Library/Containers/com.apple.iBooksX.SharingExtension/Data/Library/Application Support
 0	./Library/Containers/com.apple.iBooksX.SharingExtension/Data/Library/Saved Application State
 0	./Library/Containers/com.apple.iBooksX.SharingExtension/Data/Library/Preferences
@@ -9063,17 +9541,17 @@ du: ./Library/Containers/com.apple.Safari: Operation not permitted
 336	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/HTTPStorages
 0	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Logs
 0	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Caches/com.microsoft.OneDrive-mac.FileProvider/fsCachedData
-6344	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Caches/com.microsoft.OneDrive-mac.FileProvider
+1608	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Caches/com.microsoft.OneDrive-mac.FileProvider
 0	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Caches/com.plausiblelabs.crashreporter.data/com.microsoft.OneDrive-mac.FileProvider/queued_reports
 0	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Caches/com.plausiblelabs.crashreporter.data/com.microsoft.OneDrive-mac.FileProvider
 0	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Caches/com.plausiblelabs.crashreporter.data
-6344	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Caches
-6736	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library
+1608	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library/Caches
+2000	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Library
 0	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/Documents
 0	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/tmp
 0	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data/SystemData
-6736	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data
-6800	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider
+2000	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider/Data
+2064	./Library/Containers/com.microsoft.OneDrive-mac.FileProvider
 0	./Library/Containers/com.apple.podcasts.PodcastsNotificationExtension/Data/Library/Application Support
 0	./Library/Containers/com.apple.podcasts.PodcastsNotificationExtension/Data/Library/Saved Application State
 0	./Library/Containers/com.apple.podcasts.PodcastsNotificationExtension/Data/Library/Preferences
@@ -9420,13 +9898,13 @@ du: ./Library/Containers/com.apple.Safari: Operation not permitted
 0	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.public-production-143441/av-assets
 640	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.public-production-143441
 32	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.widget/fsCachedData
-2288	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.widget/CK-at-Edge-URL-Cache/fsCachedData
-4152	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.widget/CK-at-Edge-URL-Cache
-5248	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.widget
+2312	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.widget/CK-at-Edge-URL-Cache/fsCachedData
+4176	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.widget/CK-at-Edge-URL-Cache
+5400	./Library/Containers/com.apple.news.widget/Data/Library/Caches/com.apple.news.widget
 4864	./Library/Containers/com.apple.news.widget/Data/Library/Caches/shared-assets-assetstore
 8536	./Library/Containers/com.apple.news.widget/Data/Library/Caches/widget-assets-assetstore
-19384	./Library/Containers/com.apple.news.widget/Data/Library/Caches
-19728	./Library/Containers/com.apple.news.widget/Data/Library
+19536	./Library/Containers/com.apple.news.widget/Data/Library/Caches
+19880	./Library/Containers/com.apple.news.widget/Data/Library
 0	./Library/Containers/com.apple.news.widget/Data/Documents
 0	./Library/Containers/com.apple.news.widget/Data/tmp
 912	./Library/Containers/com.apple.news.widget/Data/SystemData/com.apple.chrono/snapshot/today
@@ -9437,8 +9915,8 @@ du: ./Library/Containers/com.apple.Safari: Operation not permitted
 1048	./Library/Containers/com.apple.news.widget/Data/SystemData/com.apple.chrono/timelines
 2648	./Library/Containers/com.apple.news.widget/Data/SystemData/com.apple.chrono
 2648	./Library/Containers/com.apple.news.widget/Data/SystemData
-22376	./Library/Containers/com.apple.news.widget/Data
-22440	./Library/Containers/com.apple.news.widget
+22528	./Library/Containers/com.apple.news.widget/Data
+22592	./Library/Containers/com.apple.news.widget
 0	./Library/Containers/com.apple.STMExtension.CloudFiles/Data/Library/Application Support
 0	./Library/Containers/com.apple.STMExtension.CloudFiles/Data/Library/Saved Application State
 0	./Library/Containers/com.apple.STMExtension.CloudFiles/Data/Library/Preferences
@@ -9471,22 +9949,22 @@ du: ./Library/Containers/com.apple.Safari: Operation not permitted
 0	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Application Scripts
 0	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Images
 0	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Logs
-1064	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Caches/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/fsCachedData
-2416	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Caches/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension
-2416	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Caches
-2416	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library
+1104	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Caches/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/fsCachedData
+2712	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Caches/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension
+2712	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library/Caches
+2712	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Library
 0	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/Documents
 0	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/tmp
 392	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono/snapshot/com.apple.ScreenTimeWidgetApplication
 392	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono/snapshot
 520	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono/placeholders/com.apple.ScreenTimeWidgetApplication
 520	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono/placeholders
-352	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono/timelines/com.apple.ScreenTimeWidgetApplication
-352	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono/timelines
-1264	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono
-1264	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData
-3680	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data
-3744	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension
+456	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono/timelines/com.apple.ScreenTimeWidgetApplication
+456	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono/timelines
+1368	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData/com.apple.chrono
+1368	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data/SystemData
+4080	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension/Data
+4144	./Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension
 0	./Library/Containers/com.apple.WatchFaceAlert.ThumbnailExtension/Data/Library/Application Support
 0	./Library/Containers/com.apple.WatchFaceAlert.ThumbnailExtension/Data/Library/Saved Application State
 0	./Library/Containers/com.apple.WatchFaceAlert.ThumbnailExtension/Data/Library/Preferences
@@ -11017,17 +11495,17 @@ du: ./Library/Containers/com.apple.Notes: Operation not permitted
 22112	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod/MAResources/territories
 22112	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod/MAResources
 0	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod/MapTiles/ExternalData
-1664	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod/MapTiles
+1792	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod/MapTiles
 104	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod/PlaceData
 0	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod/Analytics
-43296	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod
-43296	./Library/Containers/com.apple.geod/Data/Library/Caches
-43296	./Library/Containers/com.apple.geod/Data/Library
+43424	./Library/Containers/com.apple.geod/Data/Library/Caches/com.apple.geod
+43424	./Library/Containers/com.apple.geod/Data/Library/Caches
+43424	./Library/Containers/com.apple.geod/Data/Library
 0	./Library/Containers/com.apple.geod/Data/Documents
 0	./Library/Containers/com.apple.geod/Data/tmp
 0	./Library/Containers/com.apple.geod/Data/SystemData
-43296	./Library/Containers/com.apple.geod/Data
-43408	./Library/Containers/com.apple.geod
+43424	./Library/Containers/com.apple.geod/Data
+43536	./Library/Containers/com.apple.geod
 0	./Library/Containers/com.apple.iCal.FaceTimeExtension/Data/Library/Application Support
 0	./Library/Containers/com.apple.iCal.FaceTimeExtension/Data/Library/Saved Application State
 0	./Library/Containers/com.apple.iCal.FaceTimeExtension/Data/Library/Preferences
@@ -11513,15 +11991,15 @@ du: ./Library/Containers/com.apple.news: Operation not permitted
 152	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/MruServiceCache/3b98678c-b67b-4dd7-9e48-046fdd5a56b8_ADAL/Excel
 152	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/MruServiceCache/3b98678c-b67b-4dd7-9e48-046fdd5a56b8_ADAL
 152	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/MruServiceCache
-64	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/aggmru/3b98678c-b67b-4dd7-9e48-046fdd5a56b8_ADAL
-64	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/aggmru
+56	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/aggmru/3b98678c-b67b-4dd7-9e48-046fdd5a56b8_ADAL
+56	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/aggmru
 3624	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/Document/Thumbnails
 3624	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/Document
 8	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/8729d043
 224	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache/ODB-WolfElkan@landmark.edu
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache/ODB-
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache/SharePoint-
-224		./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache
+224	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache
 8	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/People/Pictures
 8	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/People
 288	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/WebServiceCache/AllUsers/officeclient.microsoft.com
@@ -11548,8 +12026,8 @@ du: ./Library/Containers/com.apple.news: Operation not permitted
 96	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/Wef
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/DocumentActivityQueue
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/DisplayForm
-8872	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0
-9336	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office
+8864	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0
+9328	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office
 464	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/FontCache
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Feedback
 14056	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache/0/0/F7HBHGCEGQF6GTEKHXCHEODHFBGTC2DK
@@ -11560,24 +12038,25 @@ du: ./Library/Containers/com.apple.news: Operation not permitted
 5400	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache/0/0/CRH7BOG5BTDIDEEDB4CEGYEQDAGPG3CE
 32112	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache/0/0
 32112	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache/0
-8	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache/Cadence/1
-8	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache/Cadence
-32128	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache
-32128	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0
+0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache/Cadence/1
+0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache/Cadence
+32112	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0/OfficeFileCache
+32112	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/16.0
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/FeatureFlags/Settings/1
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/FeatureFlags/Settings
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office/FeatureFlags
-32128	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office
+32112	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Office
 15016	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Excel/BloomFilter/LinkedEntityBloomFilter
 15016	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Excel/BloomFilter
 15128	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft/Excel
-47256	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft
-47264	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData
+47240	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData/Microsoft
+47248	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AppData
 1184	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/AccountHistory309449430613175872
-65168	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft
+65144	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/User
-65176	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support
-0	./Library/Containers/com.microsoft.Excel/Data/Library/Saved Application State
+65152	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support
+40	./Library/Containers/com.microsoft.Excel/Data/Library/Saved Application State/com.microsoft.Excel.savedState
+40	./Library/Containers/com.microsoft.Excel/Data/Library/Saved Application State
 0	./Library/Containers/com.microsoft.Excel/Data/Library/WebKit/WebsiteData/IndexedDB/v1
 0	./Library/Containers/com.microsoft.Excel/Data/Library/WebKit/WebsiteData/IndexedDB
 0	./Library/Containers/com.microsoft.Excel/Data/Library/WebKit/WebsiteData/MediaKeys
@@ -11607,20 +12086,20 @@ du: ./Library/Containers/com.apple.news: Operation not permitted
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/WebKit/CacheStorage
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/WebKit/ServiceWorkers
 3456	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/WebKit
-28080	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs
-28080	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel
-28080	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls
-28152	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft
+6216	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel/logs
+6216	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls/com.microsoft.Excel
+6216	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft/uls
+6288	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/Microsoft
 128	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/com.microsoft.ctrlstrcaches
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/com.microsoft.Excel/fsCachedData
 8360	./Library/Containers/com.microsoft.Excel/Data/Library/Caches/com.microsoft.Excel
-40096	./Library/Containers/com.microsoft.Excel/Data/Library/Caches
-106728	./Library/Containers/com.microsoft.Excel/Data/Library
+18232	./Library/Containers/com.microsoft.Excel/Data/Library/Caches
+84880	./Library/Containers/com.microsoft.Excel/Data/Library
 0	./Library/Containers/com.microsoft.Excel/Data/Documents
 0	./Library/Containers/com.microsoft.Excel/Data/tmp
 0	./Library/Containers/com.microsoft.Excel/Data/SystemData
-106728	./Library/Containers/com.microsoft.Excel/Data
-106816	./Library/Containers/com.microsoft.Excel
+84880	./Library/Containers/com.microsoft.Excel/Data
+84968	./Library/Containers/com.microsoft.Excel
 0	./Library/Containers/com.apple.SystemProfiler.CloudStorageUIHelper/Data/Library/Application Support
 0	./Library/Containers/com.apple.SystemProfiler.CloudStorageUIHelper/Data/Library/Saved Application State
 0	./Library/Containers/com.apple.SystemProfiler.CloudStorageUIHelper/Data/Library/Preferences
@@ -12919,7 +13398,7 @@ du: ./Library/Containers/com.apple.stocks: Operation not permitted
 0	./Library/Containers/com.apple.CalendarFileHandler/Data/SystemData
 0	./Library/Containers/com.apple.CalendarFileHandler/Data
 56	./Library/Containers/com.apple.CalendarFileHandler
-1232936	./Library/Containers
+1207344	./Library/Containers
 0	./Library/ContainerManager/PendingUpdates
 0	./Library/ContainerManager/Delete
 0	./Library/ContainerManager/Replace
@@ -13107,7 +13586,7 @@ du: ./Library/StatusKit: Operation not permitted
 472	./Library/Caches/com.apple.bookdatastored
 du: ./Library/Caches/com.apple.HomeKit: Operation not permitted
 80	./Library/Caches/com.apple.proactive.eventtracker/log_stores
-168	./Library/Caches/com.apple.proactive.eventtracker
+184	./Library/Caches/com.apple.proactive.eventtracker
 du: ./Library/Caches/com.apple.safaridavclient: Operation not permitted
 160	./Library/Caches/com.google.Keystone
 0	./Library/Caches/PassKit/RemoteCards
@@ -13135,9 +13614,9 @@ du: ./Library/Caches/com.apple.Safari: Operation not permitted
 5720	./Library/Caches/GameKit/Data
 5960	./Library/Caches/GameKit
 1608	./Library/Caches/Google/Chrome/PnaclTranslationCache
-1080	./Library/Caches/Google/Chrome/Default/Cache/Cache_Data/index-dir
-643432	./Library/Caches/Google/Chrome/Default/Cache/Cache_Data
-643432	./Library/Caches/Google/Chrome/Default/Cache
+1096	./Library/Caches/Google/Chrome/Default/Cache/Cache_Data/index-dir
+639352	./Library/Caches/Google/Chrome/Default/Cache/Cache_Data
+639352	./Library/Caches/Google/Chrome/Default/Cache
 0	./Library/Caches/Google/Chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Cache
 8	./Library/Caches/Google/Chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/js/index-dir
 16	./Library/Caches/Google/Chrome/Default/Storage/ext/gfdkimpbcpahaombhbimeihdjnejgicl/def/Code Cache/js
@@ -13156,12 +13635,12 @@ du: ./Library/Caches/com.apple.Safari: Operation not permitted
 32	./Library/Caches/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
 64	./Library/Caches/Google/Chrome/Default/Storage/ext
 64	./Library/Caches/Google/Chrome/Default/Storage
-408	./Library/Caches/Google/Chrome/Default/Code Cache/js/index-dir
-629768	./Library/Caches/Google/Chrome/Default/Code Cache/js
+416	./Library/Caches/Google/Chrome/Default/Code Cache/js/index-dir
+645528	./Library/Caches/Google/Chrome/Default/Code Cache/js
 8	./Library/Caches/Google/Chrome/Default/Code Cache/wasm/index-dir
 867552	./Library/Caches/Google/Chrome/Default/Code Cache/wasm
-1497320	./Library/Caches/Google/Chrome/Default/Code Cache
-2140816	./Library/Caches/Google/Chrome/Default
+1513080	./Library/Caches/Google/Chrome/Default/Code Cache
+2152496	./Library/Caches/Google/Chrome/Default
 8	./Library/Caches/Google/Chrome/Guest Profile/Cache/Cache_Data/index-dir
 16	./Library/Caches/Google/Chrome/Guest Profile/Cache/Cache_Data
 16	./Library/Caches/Google/Chrome/Guest Profile/Cache
@@ -13171,8 +13650,8 @@ du: ./Library/Caches/com.apple.Safari: Operation not permitted
 16	./Library/Caches/Google/Chrome/Guest Profile/Code Cache/wasm
 32	./Library/Caches/Google/Chrome/Guest Profile/Code Cache
 48	./Library/Caches/Google/Chrome/Guest Profile
-2142472	./Library/Caches/Google/Chrome
-2142472	./Library/Caches/Google
+2154152	./Library/Caches/Google/Chrome
+2154152	./Library/Caches/Google
 112	./Library/Caches/com.microsoft.teams/WebKit/AlternativeServices
 0	./Library/Caches/com.microsoft.teams/WebKit/OfflineWebApplicationCache
 56	./Library/Caches/com.microsoft.teams/WebKit/NetworkCache/Version 16/Records/FE17B9F2CA1F2D43F9165E33ED808010025E853C/Resource
@@ -13210,8 +13689,8 @@ du: ./Library/Caches/com.apple.Safari: Operation not permitted
 96	./Library/Caches/com.apple.assistant_service/updates
 304	./Library/Caches/com.apple.assistant_service/fsCachedData
 4768	./Library/Caches/com.apple.assistant_service
-32	./Library/Caches/com.apple.Spotlight/fsCachedData
-4304	./Library/Caches/com.apple.Spotlight
+128	./Library/Caches/com.apple.Spotlight/fsCachedData
+6448	./Library/Caches/com.apple.Spotlight
 320	./Library/Caches/com.apple.newsd/fsCachedData
 4688	./Library/Caches/com.apple.newsd
 160	./Library/Caches/com.apple.AppleMediaServicesUIDynamicService
@@ -13349,7 +13828,7 @@ du: ./Library/Caches/com.apple.findmy.fmfcore: Operation not permitted
 0	./Library/Caches/com.apple.parsecd/CustomFeedback/ProactiveEventTrackerAggregated
 0	./Library/Caches/com.apple.parsecd/CustomFeedback
 64	./Library/Caches/com.apple.parsecd/EngagedCompletions
-33960	./Library/Caches/com.apple.parsecd
+34512	./Library/Caches/com.apple.parsecd
 8	./Library/Caches/com.apple.icloud.fmfd/FMFCloudKitCache/431717461_v1/zoneServerChangeToken/Private/__defaultOwner__
 8	./Library/Caches/com.apple.icloud.fmfd/FMFCloudKitCache/431717461_v1/zoneServerChangeToken/Private
 8	./Library/Caches/com.apple.icloud.fmfd/FMFCloudKitCache/431717461_v1/zoneServerChangeToken
@@ -13433,8 +13912,8 @@ du: ./Library/Caches/FamilyCircle: Operation not permitted
 336	./Library/Caches/com.apple.AMPLibraryAgent/fsCachedData
 4696	./Library/Caches/com.apple.AMPLibraryAgent
 464	./Library/Caches/com.apple.commerce
-408	./Library/Caches/com.apple.feedbacklogger/com.apple.assistantd
-424	./Library/Caches/com.apple.feedbacklogger
+144	./Library/Caches/com.apple.feedbacklogger/com.apple.assistantd
+160	./Library/Caches/com.apple.feedbacklogger
 24	./Library/Caches/askpermissiond/fsCachedData
 960	./Library/Caches/askpermissiond
 2360	./Library/Caches/com.apple.iTunes/CommerceRequestCache/fsCachedData
@@ -13471,14 +13950,14 @@ du: ./Library/Caches/com.apple.homed: Operation not permitted
 848	./Library/Caches/com.apple.iTunesCloud
 du: ./Library/Caches/com.apple.ap.adprivacyd: Operation not permitted
 0	./Library/Caches/com.sublimetext.4/fsCachedData
-1576	./Library/Caches/com.sublimetext.4
+1704	./Library/Caches/com.sublimetext.4
 168	./Library/Caches/com.apple.iCloudHelper
 128	./Library/Caches/com.makemusic.Finale27/Finale Temp Files 668746130
 128	./Library/Caches/com.makemusic.Finale27
-2780720	./Library/Caches
-8565808	./Library
+2794976	./Library/Caches
+8572072	./Library
 8	./.cups
-144	./.bash_sessions
+256	./.bash_sessions
 0	./Public/Drop Box
 0	./Public
 8	./.idlerc
@@ -14047,6 +14526,6 @@ du: ./.Trash: Operation not permitted
 14264	./Cisco Packet Tracer 8.1.1/logs
 0	./Cisco Packet Tracer 8.1.1/templates
 14336	./Cisco Packet Tracer 8.1.1
-5014992	./Downloads
-18739960	.
+5044400	./Downloads
+18780664	.
 NWE-MBP:~ wolf$ 
