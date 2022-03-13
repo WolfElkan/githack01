@@ -1,4 +1,4 @@
-Last login: Sun Mar 13 15:21:55 on ttys000
+Last login: Sun Mar 13 15:36:31 on ttys001
 
 The default interactive shell is now zsh.
 To update your account to use zsh, please run `chsh -s /bin/zsh`.
@@ -156,13 +156,16 @@ NWE-MBP:~ wolf$ du
 288	./Desktop/Programs/ExcelClock/.git
 312	./Desktop/Programs/ExcelClock
 8	./Desktop/Programs/githack/.git/objects/50
+8	./Desktop/Programs/githack/.git/objects/05
+8	./Desktop/Programs/githack/.git/objects/a3
 8	./Desktop/Programs/githack/.git/objects/cf
 8	./Desktop/Programs/githack/.git/objects/18
 0	./Desktop/Programs/githack/.git/objects/pack
 0	./Desktop/Programs/githack/.git/objects/info
+232	./Desktop/Programs/githack/.git/objects/0a
 8	./Desktop/Programs/githack/.git/objects/15
 448	./Desktop/Programs/githack/.git/objects/2e
-480	./Desktop/Programs/githack/.git/objects
+728	./Desktop/Programs/githack/.git/objects
 8	./Desktop/Programs/githack/.git/info
 8	./Desktop/Programs/githack/.git/logs/refs/heads
 8	./Desktop/Programs/githack/.git/logs/refs/remotes/origin
@@ -175,8 +178,8 @@ NWE-MBP:~ wolf$ du
 8	./Desktop/Programs/githack/.git/refs/remotes/origin
 8	./Desktop/Programs/githack/.git/refs/remotes
 16	./Desktop/Programs/githack/.git/refs
-688	./Desktop/Programs/githack/.git
-4912	./Desktop/Programs/githack
+936	./Desktop/Programs/githack/.git
+5160	./Desktop/Programs/githack
 8	./Desktop/Programs/jackbox/mafia/chat/node_modules/xmlhttprequest-ssl/example
 80	./Desktop/Programs/jackbox/mafia/chat/node_modules/xmlhttprequest-ssl/tests
 40	./Desktop/Programs/jackbox/mafia/chat/node_modules/xmlhttprequest-ssl/lib
@@ -3670,12 +3673,12 @@ NWE-MBP:~ wolf$ du
 352	./Desktop/Programs/Scrabble
 808	./Desktop/Programs/Harphoon/static
 848	./Desktop/Programs/Harphoon
-964840	./Desktop/Programs
+965088	./Desktop/Programs
 2432	./Desktop/GMU
 1328	./Desktop/Data/Money
 1352	./Desktop/Data
 21000	./Desktop/PKA
-991392	./Desktop
+991640	./Desktop
 112	./Library/Application Support/com.apple.sbd/E9370DC7-D0EF-4969-BFB8-D3C418A4773A/PCS-Notes-tomb
 112	./Library/Application Support/com.apple.sbd/E9370DC7-D0EF-4969-BFB8-D3C418A4773A/PCS-iMessage-tomb
 112	./Library/Application Support/com.apple.sbd/E9370DC7-D0EF-4969-BFB8-D3C418A4773A/iCloudIdentity-tomb
@@ -4693,7 +4696,7 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 14136	./Library/Application Support/Google/Chrome/Default/Local Storage/leveldb
 14136	./Library/Application Support/Google/Chrome/Default/Local Storage
 0	./Library/Application Support/Google/Chrome/Default/Search Logos
-1695160	./Library/Application Support/Google/Chrome/Default
+1695184	./Library/Application Support/Google/Chrome/Default
 8	./Library/Application Support/Google/Chrome/ZxcvbnData/1/_metadata
 1600	./Library/Application Support/Google/Chrome/ZxcvbnData/1
 1600	./Library/Application Support/Google/Chrome/ZxcvbnData
@@ -4773,8 +4776,8 @@ du: ./Library/Application Support/MobileSync: Operation not permitted
 24	./Library/Application Support/Google/Chrome/Guest Profile/Local Storage/leveldb
 24	./Library/Application Support/Google/Chrome/Guest Profile/Local Storage
 3056	./Library/Application Support/Google/Chrome/Guest Profile
-1953256	./Library/Application Support/Google/Chrome
-1953264	./Library/Application Support/Google
+1953280	./Library/Application Support/Google/Chrome
+1953288	./Library/Application Support/Google
 du: ./Library/Application Support/CallHistoryTransactions: Operation not permitted
 0	./Library/Application Support/Microsoft/vcxpc
 120	./Library/Application Support/Microsoft/Teams/media-stack
@@ -4907,14 +4910,14 @@ du: ./Library/Application Support/Knowledge: Operation not permitted
 8	./Library/Application Support/icdd
 du: ./Library/Application Support/com.apple.TCC: Operation not permitted
 0	./Library/Application Support/Sublime Text/Installed Packages
-4832	./Library/Application Support/Sublime Text/Local
+32	./Library/Application Support/Sublime Text/Local
 16	./Library/Application Support/Sublime Text/Packages/User
 16	./Library/Application Support/Sublime Text/Packages
 0	./Library/Application Support/Sublime Text/Lib/python38
 0	./Library/Application Support/Sublime Text/Lib/python33
 0	./Library/Application Support/Sublime Text/Lib
 0	./Library/Application Support/Sublime Text/Log
-4848	./Library/Application Support/Sublime Text
+48	./Library/Application Support/Sublime Text
 0	./Library/Application Support/com.apple.ContextStoreAgent
 du: ./Library/Application Support/FileProvider: Operation not permitted
 0	./Library/Application Support/Teams/Dictionaries
@@ -4973,7 +4976,7 @@ du: ./Library/Application Support/com.apple.avfoundation/Frecents: Operation not
 du: ./Library/Application Support/CallHistoryDB: Operation not permitted
 104	./Library/Application Support/Dock
 5568	./Library/Application Support/com.apple.ProtectedCloudStorage
-4051848	./Library/Application Support
+4047072	./Library/Application Support
 0	./Library/Maps/ReportAProblem/Notifications
 0	./Library/Maps/ReportAProblem
 0	./Library/Maps
@@ -4984,12 +4987,12 @@ du: ./Library/Assistant/SiriVocabulary: Operation not permitted
 8	./Library/Assistant/CustomVocabulary/com.apple.Photos/0000000000000000000000000000000000000000
 8	./Library/Assistant/CustomVocabulary/com.apple.Photos
 8	./Library/Assistant/CustomVocabulary
-2280	./Library/Assistant
+2608	./Library/Assistant
 32	./Library/com.apple.appleaccountd/CKTokens/Database/Private
 32	./Library/com.apple.appleaccountd/CKTokens/Database
 32	./Library/com.apple.appleaccountd/CKTokens
 32	./Library/com.apple.appleaccountd
-216	./Library/Saved Application State/com.apple.installer.savedState
+40	./Library/Saved Application State/com.apple.installer.savedState
 16	./Library/Saved Application State/com.microsoft.teams.savedState
 48	./Library/Saved Application State/com.sublimetext.4.savedState
 40	./Library/Saved Application State/org.wireshark.Wireshark.savedState
@@ -4998,9 +5001,9 @@ du: ./Library/Assistant/SiriVocabulary: Operation not permitted
 16	./Library/Saved Application State/com.apple.InstallAssistant.macOSMonterey.savedState
 64	./Library/Saved Application State/com.apple.systempreferences.savedState
 440	./Library/Saved Application State/com.apple.finder.savedState
-3000	./Library/Saved Application State/com.apple.Terminal.savedState
+7232	./Library/Saved Application State/com.apple.Terminal.savedState
 40	./Library/Saved Application State/com.netacad.PacketTracer8.1.1.savedState
-3984	./Library/Saved Application State
+8040	./Library/Saved Application State
 du: ./Library/IdentityServices: Operation not permitted
 0	./Library/WebKit/com.apple.Music/WebsiteData/IndexedDB/v1
 0	./Library/WebKit/com.apple.Music/WebsiteData/IndexedDB
@@ -12888,7 +12891,7 @@ du: ./Library/Containers/com.apple.stocks: Operation not permitted
 0	./Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension/Data/Library/Images
 0	./Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension/Data/Library/Logs
 0	./Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension/Data/Library/Caches
-0	./Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension/Data/Library
+0		./Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension/Data/Library
 0	./Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension/Data/Documents
 0	./Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension/Data/tmp
 0	./Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension/Data/SystemData
@@ -13955,7 +13958,7 @@ du: ./Library/Caches/com.apple.ap.adprivacyd: Operation not permitted
 128	./Library/Caches/com.makemusic.Finale27/Finale Temp Files 668746130
 128	./Library/Caches/com.makemusic.Finale27
 2794976	./Library/Caches
-8572072	./Library
+8571680	./Library
 8	./.cups
 256	./.bash_sessions
 0	./Public/Drop Box
@@ -14527,5 +14530,5 @@ du: ./.Trash: Operation not permitted
 0	./Cisco Packet Tracer 8.1.1/templates
 14336	./Cisco Packet Tracer 8.1.1
 5044400	./Downloads
-18780664	.
+18780520	.
 NWE-MBP:~ wolf$ 
