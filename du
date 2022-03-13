@@ -1,4 +1,4 @@
-Last login: Sun Mar 13 14:58:37 on console
+Last login: Sun Mar 13 14:59:44 on ttys000
 
 The default interactive shell is now zsh.
 To update your account to use zsh, please run `chsh -s /bin/zsh`.
@@ -4961,7 +4961,7 @@ du: ./Library/Assistant/SiriVocabulary: Operation not permitted
 8	./Library/Assistant/CustomVocabulary/com.apple.Photos/0000000000000000000000000000000000000000
 8	./Library/Assistant/CustomVocabulary/com.apple.Photos
 8	./Library/Assistant/CustomVocabulary
-2280	./Library/Assistant
+2736	./Library/Assistant
 32	./Library/com.apple.appleaccountd/CKTokens/Database/Private
 32	./Library/com.apple.appleaccountd/CKTokens/Database
 32	./Library/com.apple.appleaccountd/CKTokens
@@ -4973,9 +4973,10 @@ du: ./Library/Assistant/SiriVocabulary: Operation not permitted
 24	./Library/Saved Application State/com.yourcompany.installerbase.savedState
 16	./Library/Saved Application State/com.apple.InstallAssistant.macOSMonterey.savedState
 48	./Library/Saved Application State/com.apple.systempreferences.savedState
-40	./Library/Saved Application State/com.apple.finder.savedState
+912	./Library/Saved Application State/com.apple.finder.savedState
+3344	./Library/Saved Application State/com.apple.Terminal.savedState
 40	./Library/Saved Application State/com.netacad.PacketTracer8.1.1.savedState
-440	./Library/Saved Application State
+4656	./Library/Saved Application State
 du: ./Library/IdentityServices: Operation not permitted
 0	./Library/WebKit/com.apple.Music/WebsiteData/IndexedDB/v1
 0	./Library/WebKit/com.apple.Music/WebsiteData/IndexedDB
@@ -11520,7 +11521,7 @@ du: ./Library/Containers/com.apple.news: Operation not permitted
 224	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache/ODB-WolfElkan@landmark.edu
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache/ODB-
 0	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache/SharePoint-
-224	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache
+224		./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/BackstageInAppNavCache
 8	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/People/Pictures
 8	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/People
 288	./Library/Containers/com.microsoft.Excel/Data/Library/Application Support/Microsoft/Office/16.0/WebServiceCache/AllUsers/officeclient.microsoft.com
@@ -13475,7 +13476,7 @@ du: ./Library/Caches/com.apple.ap.adprivacyd: Operation not permitted
 128	./Library/Caches/com.makemusic.Finale27/Finale Temp Files 668746130
 128	./Library/Caches/com.makemusic.Finale27
 2780720	./Library/Caches
-8561136	./Library
+8565808	./Library
 8	./.cups
 144	./.bash_sessions
 0	./Public/Drop Box
@@ -14047,5 +14048,5 @@ du: ./.Trash: Operation not permitted
 0	./Cisco Packet Tracer 8.1.1/templates
 14336	./Cisco Packet Tracer 8.1.1
 5014992	./Downloads
-18735288	.
+18739960	.
 NWE-MBP:~ wolf$ 
